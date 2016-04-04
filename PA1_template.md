@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Reproducible Research: Peer Assessment 1
 J.E.Black  
 April 2, 2016  
@@ -575,5 +574,3 @@ print(wPlot)
 
 setwd(hpath) # reset working directory
 ```
-
->>>>>>> e81204a001355993075d6ebc0d3bc4e452a6aabf
