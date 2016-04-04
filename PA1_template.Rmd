@@ -262,9 +262,12 @@ wPlot <- xyplot(weekData$steps ~ weekData$interval|weekData$day,
 print(wPlot)
 ```
 
+
 ## Wrap-up:
 ```{r fin}
 # Go home
-setwd(hpath)
+
+setwd(hpath) # reset working directory
+
 ```
 

@@ -277,10 +277,12 @@ print(wPlot)
 
 ![](PA1_template_files/figure-html/weekendPlot-1.png)
 
+
 ## Wrap-up:
 
 ```r
 # Go home
-setwd(hpath)
+
+setwd(hpath) # reset working directory
 ```
 
